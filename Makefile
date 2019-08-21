@@ -1,5 +1,5 @@
 SHELL := /bin/bash 
-notebooks := $(wildcard *.ipynb)
+notebooks := $(wildcard *-*.ipynb)
 notebooks_executed := $(foreach d,$(notebooks), notebooks4pdf/$(d) )
 
 .PHONY: clean pdf notebooks dirs clean_output
