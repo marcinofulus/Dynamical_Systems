@@ -90,7 +90,7 @@
 
 \date{ \sffamily \today \\[3cm]
 \sffamily Download Juptyer Notebook files, pdf and html files of this book from\\
-\sffamily \href{https://github.com/marcinofulus/Dynamical\_Systems\_with\_SageMath}{https://github.com/marcinofulus/Dynamical\_Systems\_with\_SageMath}
+\sffamily \href{https://github.com/marcinofulus/Dynamical\_Systems}{https://github.com/marcinofulus/Dynamical\_Systems}
 } % end of \date
 \maketitle
 \newpage
